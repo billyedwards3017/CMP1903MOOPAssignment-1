@@ -6,7 +6,10 @@ namespace CMP1903MAssignment1Calc
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            string[] countryname = { "Austria", "Belgium", "Bulgaria", "Croatia", "Cyprus", "Czech Republic", "Denmark", "Estonia", "Finland", "France", "Germany", "Greece", "Hungary", "Ireland", "Italy", "Latvia", "Luxembourg", "Malta", "Netherlands", "Poland", "Romania", "Slovakia", "Slovenia", "Spain", "Sweden" };
+            
+            Country c = new Country(name, pop, vote, euro);
         }
     }
 }
