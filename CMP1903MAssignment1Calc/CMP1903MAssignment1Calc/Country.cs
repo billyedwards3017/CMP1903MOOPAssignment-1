@@ -6,5 +6,7 @@ namespace CMP1903MAssignment1Calc
 {
     class Country
     {
+        static int Population;
+
     }
 }
