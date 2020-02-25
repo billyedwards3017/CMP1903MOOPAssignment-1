@@ -9,14 +9,14 @@ namespace CMP1903MAssignment1Calc
         private string Name { get; set; }
         private double Population { get; set; }
         private int Vote { get; set; }
-        private bool IsEurozone { get; set; }
+        //private bool IsEurozone { get; set; }
 
-        public Country(string name, double pop, int vote, bool euro)
+        public Country(string name, double pop, int vote)
         {
             Name = name;
             Population = pop;
             Vote = vote;
-            IsEurozone = euro;
+            //IsEurozone = euro;
         }
 
         public void GetVoteStatus()
