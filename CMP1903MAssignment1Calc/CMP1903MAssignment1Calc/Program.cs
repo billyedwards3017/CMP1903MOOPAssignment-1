@@ -18,11 +18,14 @@ namespace CMP1903MAssignment1Calc
             {
                 countries[i] = new Country(countryname[i], countrypop[i], countryvote[i], iseurozone[i]);
             }
-
+            
 
             int voteFor = 0;
             string countryMajority = "Rejected";
             float voteForPop = 0;
+            for (int i = 0; i < countryname.Length; i++){
+            countries[i].SetVoteStatus();
+            }
 
             for (int x = 0; x < countryvote.Length; x++)
             {
