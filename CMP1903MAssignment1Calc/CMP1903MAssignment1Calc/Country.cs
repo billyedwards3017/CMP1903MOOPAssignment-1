@@ -26,8 +26,8 @@ namespace CMP1903MAssignment1Calc
 
         public void SetVoteStatus()
         {
-        Console.WriteLine("Enter vote. 1 is for, -1 is against, 0 is abstain ");
-        Vote = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("Enter vote for: {0}. 1 is for, -1 is against, 0 is abstain ", Name);
+        Vote = Convert.ToSingle(Console.ReadLine());
         }
     }
 
