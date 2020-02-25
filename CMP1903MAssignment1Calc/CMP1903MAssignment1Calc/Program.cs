@@ -23,7 +23,9 @@ namespace CMP1903MAssignment1Calc
             int voteFor = 0;
             string countryMajority = "Rejected";
             float voteForPop = 0;
-            for (int i = 0; i < countryname.Length; i++){
+            
+            for (int i = 0; i < countryname.Length; i++)
+            {
             countries[i].SetVoteStatus();
             }
 
