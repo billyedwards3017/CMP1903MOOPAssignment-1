@@ -6,10 +6,10 @@ namespace CMP1903MAssignment1Calc
 {
     class Country
     {
-        public string Name { get; set; }
-        public double Population { get; set; }
-        public int Vote { get; set; }
-        public bool IsEurozone { get; set; }
+        private string Name { get; set; }
+        private double Population { get; set; }
+        private int Vote { get; set; }
+        private bool IsEurozone { get; set; }
 
         public Country(string name, double pop, int vote, bool euro)
         {
