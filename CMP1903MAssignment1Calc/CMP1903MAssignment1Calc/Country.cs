@@ -24,16 +24,22 @@ namespace CMP1903MAssignment1Calc
         Console.WriteLine(Vote);
         }
 
-        public void SetVoteStatus()
+        public int SetVoteStatus()
         {
         Console.WriteLine("Do you want to change {0}'s vote? y/n", Name);
         string changevote = Console.ReadLine();
-        if (changevote == 'y')
+        if (changevote == "y")
         {
         Console.WriteLine("Enter vote for: {0}. 1 is for, -1 is against, 0 is abstain ", Name);
-        Vote = Convert.ToSingle(Console.ReadLine());
+        Vote = Convert.ToInt32(Console.ReadLine());
+        return Vote;
         }
-        
+        return Vote;
+        }
+
+        public double GetPop()
+        {
+            return Population;
         }
     }
 

@@ -22,18 +22,22 @@ namespace CMP1903MAssignment1Calc
 
             int voteFor = 0;
             string countryMajority = "Rejected";
-            float voteForPop = 0;
+            double voteForPop = 0;
             
             for (int i = 0; i < countryname.Length; i++)
             {
-            countries[i].SetVoteStatus();
+            int temp = countries[i].SetVoteStatus();
+            if (temp == 1)
+                {
+                    voteForPop += countries[i].GetPop();
+                    voteFor += temp;
+                }
             }
 
             for (int x = 0; x < countryvote.Length; x++)
             {
                 if (countryvote[x] == 1)
                 {
-                    voteFor += 1;
                     voteForPop += countrypop[x];
                 }
 
@@ -53,8 +57,7 @@ namespace CMP1903MAssignment1Calc
                 // This checks the current status of the vote
 
             Console.WriteLine($"Currently, the vote is {countryMajority}");
-
-            Console.WriteLine("Would you like to change the votes?");
+            //Console.WriteLine("Would you like to change the votes?");
             
 
         }
