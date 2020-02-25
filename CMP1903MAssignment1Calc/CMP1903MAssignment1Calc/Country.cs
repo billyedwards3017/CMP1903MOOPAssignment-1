@@ -19,5 +19,13 @@ namespace CMP1903MAssignment1Calc
             IsEurozone = euro;
         }
 
+
+    }
+
+    public GetVoteStatus()
+    {
+
+
+
     }
 }

@@ -1,0 +1,11 @@
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\obj\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.csprojAssemblyReference.cache
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\obj\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.AssemblyInfoInputs.cache
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\obj\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.AssemblyInfo.cs
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\bin\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.exe
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\bin\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.deps.json
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\bin\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.runtimeconfig.json
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\bin\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.runtimeconfig.dev.json
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\bin\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.dll
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\bin\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.pdb
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\obj\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.dll
+C:\Users\computing\Source\Repos\billyedwards3017\CMP1903MOOPAssignment-1\CMP1903MAssignment1Calc\CMP1903MAssignment1Calc\obj\Debug\netcoreapp3.1\CMP1903MAssignment1Calc.pdb
