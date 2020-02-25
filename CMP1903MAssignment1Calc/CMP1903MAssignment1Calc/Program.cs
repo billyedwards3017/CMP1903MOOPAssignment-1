@@ -12,11 +12,11 @@ namespace CMP1903MAssignment1Calc
             int[] countryvote = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
             //1 is for, 0 is abstain, and -1 is against
             bool[] iseurozone = { true, true, false, false, true, false, false, true, true, true, true, true, false, true, true, true, true, true, true, true, false, true, false, true, true, true, false };
-            object[] countryobj = { };
+            Country[] countries = new Country[countryname.Length];
+
             for (int i = 0; i < countryname.Length; i++)
             {
-                Country c = new Country(countryname[i], countrypop[i], countryvote[i], iseurozone[i]);
-                c = countryobj;
+                countries[i] = new Country(countryname[i], countrypop[i], countryvote[i], iseurozone[i]);
             }
 
 
