@@ -19,13 +19,17 @@ namespace CMP1903MAssignment1Calc
             IsEurozone = euro;
         }
 
+        public void GetVoteStatus()
+        {
+        Console.WriteLine(Vote);
+        }
 
+        public void SetVoteStatus()
+        {
+        Console.WriteLine("Enter vote. 1 is for, -1 is against, 0 is abstain ");
+        Vote = Convert.ToDouble(Console.ReadLine());
+        }
     }
 
-    public GetVoteStatus()
-    {
-
-
-
-    }
+    
 }
