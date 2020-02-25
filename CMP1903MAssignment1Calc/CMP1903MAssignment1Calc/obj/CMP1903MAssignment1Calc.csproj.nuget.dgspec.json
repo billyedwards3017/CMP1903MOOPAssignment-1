@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc.csproj": {}
+    "C:\\Users\\computing\\Source\\Repos\\billyedwards3017\\CMP1903MOOPAssignment-1\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc.csproj": {
+    "C:\\Users\\computing\\Source\\Repos\\billyedwards3017\\CMP1903MOOPAssignment-1\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc.csproj",
+        "projectUniqueName": "C:\\Users\\computing\\Source\\Repos\\billyedwards3017\\CMP1903MOOPAssignment-1\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc.csproj",
         "projectName": "CMP1903MAssignment1Calc",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\obj\\",
+        "projectPath": "C:\\Users\\computing\\Source\\Repos\\billyedwards3017\\CMP1903MOOPAssignment-1\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc.csproj",
+        "packagesPath": "C:\\Users\\computing\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\computing\\Source\\Repos\\billyedwards3017\\CMP1903MOOPAssignment-1\\CMP1903MAssignment1Calc\\CMP1903MAssignment1Calc\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\computing\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
