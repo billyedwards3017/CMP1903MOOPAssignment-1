@@ -30,11 +30,11 @@ namespace CMP1903MAssignment1Calc
         string changevote = Console.ReadLine();
         if (changevote == "y")
         {
-        Console.WriteLine("Enter vote for: {0}. 1 is for, -1 is against, 0 is abstain ", Name);
-        Vote = Convert.ToInt32(Console.ReadLine());
-        return Vote;
+            Console.WriteLine("Enter vote for: {0}. 1 is for, -1 is against, 0 is abstain ", Name);
+            Vote = Convert.ToInt32(Console.ReadLine());
+            return Vote;
         }
-        return Vote;
+            return Vote;
         }
 
         public double GetPop()
