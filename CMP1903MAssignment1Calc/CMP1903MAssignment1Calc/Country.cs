@@ -34,7 +34,7 @@ namespace CMP1903MAssignment1Calc
                 do
                 {
                     Vote = (Convert.ToInt32(Console.ReadLine()));
-                } while (Vote != 1 || Vote != 0 || Vote != -1);
+                } while (Vote != 1 && Vote != 0 && Vote != -1);
                 return Vote;
         }
             return Vote;
